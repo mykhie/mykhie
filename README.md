@@ -14,7 +14,7 @@
 * [Topup Mama Platform](https://shop.topupmama.com) - A platform fasten and ease restaurant inventory ordering & management built with angular 13
 * [Integrated Proficiency Testing]( http://micro.nphl.go.ke/admin) - A CDC funded project for testing  medical lab practioneers effeciency in testing different lab samples.
 * [University Portal](https://portal.mmust.ac.ke/) - A portal that integrated to a university ERP to allow univeristy students and staff work via the web
-* 
+
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,typescript,jquery,figma,mysql,bootstrap,nodejs,dotnet,angular,git,github,vscode,firebase)](https://skillicons.dev)
